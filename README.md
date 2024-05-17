@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# RK Public School 🏫
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to RK Public School! We are a CBSE-affiliated school committed to providing quality education and holistic development to our students.
 
-## Available Scripts
+## About Us
 
-In the project directory, you can run:
+At RK Public School, we strive to create an inclusive learning environment where students can excel academically and grow into responsible global citizens. Our dedicated faculty and staff are committed to nurturing the talents and abilities of every student.
 
-### `npm start`
+## Vision 🎯
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Our vision is to empower students with knowledge, skills, and values that will enable them to thrive in a rapidly changing world. We aim to instill a love for learning, critical thinking, and a sense of social responsibility in our students.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Mission 🧿
 
-### `npm test`
+Our mission is to provide a rigorous academic program that promotes intellectual curiosity, creativity, and innovation. We foster a supportive and collaborative community where students feel valued, respected, and challenged to reach their full potential.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Curriculum
 
-### `npm run build`
+Our curriculum is designed to meet the standards set by the CBSE board, ensuring that students receive a well-rounded education that prepares them for higher education and beyond. We offer a wide range of subjects and extracurricular activities to cater to the diverse interests and talents of our students.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contact Us
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+For more information about RK Public School or to inquire about admissions, please contact us at:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+RK Public School
 
-### `npm run eject`
+Pune, Maharashtra 410110
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Phone: 9999911911
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Email: rkschool@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Website: rhschool.edu.in
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for your interest in RK Public School!
