@@ -30,6 +30,6 @@ Phone: 9999911911
 
 Email: rkschool@gmail.com
 
-Website: rhschool.edu.in
+Website: rkschool.edu.in
 
 Thank you for your interest in RK Public School!
