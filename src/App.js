@@ -8,7 +8,6 @@ function App() {
      <h1>About Page</h1> 
     <h1>Service Page</h1> 
     <h1>Contact Page</h1>
-    <h1>Category Page</h1>
     </div>
   );
 }
