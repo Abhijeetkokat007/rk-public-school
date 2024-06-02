@@ -18,7 +18,7 @@ Our mission is to provide a rigorous academic program that promotes intellectual
 
 Our curriculum is designed to meet the standards set by the CBSE board, ensuring that students receive a well-rounded education that prepares them for higher education and beyond. We offer a wide range of subjects and extracurricular activities to cater to the diverse interests and talents of our students.
 
-## Contact Us
+## Contact Us Now
 
 For more information about RK Public School or to inquire about admissions, please contact us at:
 
