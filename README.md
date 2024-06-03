@@ -6,11 +6,11 @@ Welcome to RK Public School! We are a CBSE-affiliated school committed to provid
 
 At RK Public School, we strive to create an inclusive learning environment where students can excel academically and grow into responsible global citizens. Our dedicated faculty and staff are committed to nurturing the talents and abilities of every student.
 
-## Vision 🎯
+## Our Vision 🎯
 
 Our vision is to empower students with knowledge, skills, and values that will enable them to thrive in a rapidly changing world. We aim to instill a love for learning, critical thinking, and a sense of social responsibility in our students.
 
-## Mission 🧿
+## Our Mission 🧿
 
 Our mission is to provide a rigorous academic program that promotes intellectual curiosity, creativity, and innovation. We foster a supportive and collaborative community where students feel valued, respected, and challenged to reach their full potential.
 
