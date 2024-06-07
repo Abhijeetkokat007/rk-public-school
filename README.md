@@ -1,4 +1,4 @@
-# RK Public School 🏫
+#  School 🏫
 
 Welcome to RK Public School! We are a CBSE-affiliated school committed to providing quality education and holistic development to our students.
 
